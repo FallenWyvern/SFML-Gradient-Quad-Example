@@ -1,0 +1,7 @@
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\bin\Release\SFML_Gradient_Quads.exe
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\bin\Release\SFML_Gradient_Quads.pdb
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\bin\Release\sfmlnet-audio-2.dll
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\bin\Release\sfmlnet-graphics-2.dll
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\bin\Release\sfmlnet-window-2.dll
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\obj\x86\Release\SFML_Gradient_Quads.exe
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_Gradient_Quads\SFML_Gradient_Quads\obj\x86\Release\SFML_Gradient_Quads.pdb
